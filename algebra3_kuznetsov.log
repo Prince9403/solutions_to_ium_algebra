@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.4.7)  12 OCT 2020 18:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.4.7)  13 OCT 2020 19:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -308,12 +308,30 @@ Overfull \hbox (2.95831pt too wide) in paragraph at lines 219--222
  []
 
 
-Overfull \hbox (1.11562pt too wide) in paragraph at lines 223--224
+Overfull \hbox (1.11562pt too wide) in paragraph at lines 223--225
 []\T2A/cmr/m/n/10 В другую сторону: в идеале лежат $\OML/cmm/m/it/10 x[]; [] ; 
 x[]$ \T2A/cmr/m/n/10 при достаточно большом
  []
 
-[4] [5] (./algebra3_kuznetsov.aux) ) 
+
+Overfull \hbox (3.9pt too wide) in paragraph at lines 223--225
+\OML/cmm/m/it/10 N$\T2A/cmr/m/n/10 , а множество их общих нулей --- только нача
+ло координат. Поскольку
+ []
+
+[4]
+Overfull \hbox (5.328pt too wide) in paragraph at lines 231--234
+\T2A/cmr/m/n/10 слишком много корней), а дальше индукция. Рассматриваем многочл
+ен
+ []
+
+
+Overfull \hbox (3.20816pt too wide) in paragraph at lines 231--234
+\T2A/cmr/m/n/10 коэффициент ненулевой. Подставляем эти числа. Тогда при некотор
+ом
+ []
+
+[5] (./algebra3_kuznetsov.aux) ) 
 Here is how much of TeX's memory you used:
  1756 strings out of 494397
  20342 string characters out of 6172289
@@ -322,25 +340,25 @@ Here is how much of TeX's memory you used:
  16806 words of font info for 53 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
  27i,8n,26p,523b,219s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/vasily/.texlive2017/texmf-var/fonts
-/pk/ljfour/public/bbm/bbm7.600pk> </home/vasily/.texlive2017/texmf-var/fonts/pk
-/ljfour/public/bbm/bbm10.600pk> </home/vasily/.texlive2017/texmf-var/fonts/pk/l
-jfour/lh/lh-t2a/lati1000.600pk> </home/vasily/.texlive2017/texmf-var/fonts/pk/l
-jfour/lh/lh-t2a/labx1000.600pk> </home/vasily/.texlive2017/texmf-var/fonts/pk/l
-jfour/lh/lh-t2a/larm1000.600pk> </home/vasily/.texlive2017/texmf-var/fonts/pk/l
-jfour/lh/lh-t2a/labx1440.600pk> </home/vasily/.texlive2017/texmf-var/fonts/pk/l
-jfour/lh/lh-t2a/larm1728.600pk></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on algebra3_kuznetsov.pdf (5 pages, 148552 bytes).
+ </home/vasily/.texlive2017/texmf-var/fonts/pk/
+ljfour/public/bbm/bbm7.600pk> </home/vasily/.texlive2017/texmf-var/fonts/pk/ljf
+our/public/bbm/bbm10.600pk> </home/vasily/.texlive2017/texmf-var/fonts/pk/ljfou
+r/lh/lh-t2a/lati1000.600pk> </home/vasily/.texlive2017/texmf-var/fonts/pk/ljfou
+r/lh/lh-t2a/labx1000.600pk> </home/vasily/.texlive2017/texmf-var/fonts/pk/ljfou
+r/lh/lh-t2a/larm1000.600pk> </home/vasily/.texlive2017/texmf-var/fonts/pk/ljfou
+r/lh/lh-t2a/labx1440.600pk> </home/vasily/.texlive2017/texmf-var/fonts/pk/ljfou
+r/lh/lh-t2a/larm1728.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/euler/eufm10.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/symbols/msbm10.pfb>
+Output written on algebra3_kuznetsov.pdf (5 pages, 150565 bytes).
 PDF statistics:
  243 PDF objects out of 1000 (max. 8388607)
  73 compressed objects within 1 object stream
